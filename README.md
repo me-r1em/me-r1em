@@ -1,8 +1,8 @@
 <h1>🌸 hey there, i’m <strong>chehd</strong> 💻</h1>
-<h2>✨ data science student | curious mind | professional overthinker ✨</h2>
+<h2>✨ data science student| professional overthinker ✨</h2>
 
-<p>🌷 currently exploring: machine learning, cute UIs, and how to survive deadlines<br>
-☕ fueled by: tea, curiosity, and good vibes only</p>
+<p>🌷 currently exploring: machine learning, UIs, and how to survive deadlines<br>
+☕ fueled by: tea, curiosity, and good vibes </p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itz_0v0_kiara) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meriem-chehd-merad-4991b12b4/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Chehd) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:merad.meriem.chehd@gmail.com) 
